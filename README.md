@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+🔭 I’m currently working on 
+- [WarheadCore](https://github.com/WarheadCore/WarheadCore)
+- [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)
+
+[![Kargatum's github stats](https://github-readme-stats.vercel.app/api?username=Winfidonarleyan&count_private=true&show_icons=true&theme=algolia)](https://github.com/Winfidonarleyan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winfidonarleyan&layout=compact&theme=algolia)](https://github.com/Winfidonarleyan)
+
 <!--
 **Winfidonarleyan/Winfidonarleyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
